@@ -1,7 +1,7 @@
-### Hi there 👋
+Hi, I'm Jose! 
 
-Hi, I'm Jose!
 I am an engineer.
+
 I dedicate some of my spare time to learning about new tech and thinking about how to use it to build useful things.
 I'm currently playing with SvelteKit and TRPC.
 
